@@ -1,8 +1,8 @@
 # Work Opportunity in JAPAN - japiiii
 Welcome to the Work Opportunities in Japan website! This website provides information and resources for individuals seeking employment opportunities in Japan. From exploring the vibrant culture and lifestyle to discovering top companies and job locations, our platform aims to assist you in finding your dream job in Japan.
 
-£ Features:
-Navigation Menu:
+<h2>Features:</h2>
+<b>Navigation Menu:</b>
 Easily navigate through different sections of the website using the menu located at the top.
 Language Switcher:
 Use the "Translate to Japanese" button to translate the content to Japanese for better accessibility.
