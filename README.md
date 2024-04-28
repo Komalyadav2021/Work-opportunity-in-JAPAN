@@ -2,6 +2,10 @@
 
 Welcome to the Work Opportunities in Japan website! This website provides information and resources for individuals seeking employment opportunities in Japan. From exploring the vibrant culture and lifestyle to discovering top companies and job locations, our platform aims to assist you in finding your dream job in Japan.
 
+## Home Page: 
+![image](https://github.com/Komalyadav2021/Work-opportunity-in-JAPAN/assets/102368062/3076f2dd-74e6-4b59-968a-58d11237d77c)
+
+
 ## Table of Contents
 
 - [Features](#features)
