@@ -1,0 +1,34 @@
+#google_translate_element {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 9999;
+}
+
+/* HIDE the Google Translate top banner */
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+}
+
+body {
+    top: 0px !important;
+    position: static;
+}
+/* Hide the Google Translate floating widget */
+.goog-te-balloon-frame {
+  display: none !important;
+}
+/* Optional: Style the language dropdown if needed */
+.goog-te-gadget {
+    font-size: 16px;
+    color: #000;
+}
+
+/* Hide the grey background behind banner */
+iframe.goog-te-banner-frame {
+    display: none !important;
+}
+/* Hide the Google Translate bar added at the top of the page */
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+}
